@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="edge computing">
+  <rect width="320" height="320" rx="36" fill="#0a0d12"/>
+  <circle cx="160" cy="160" r="112" fill="#142536"/><rect x="88" y="84" width="144" height="150" rx="16" fill="#1c4d6b" stroke="#70c5ed" stroke-width="8"/><rect x="111" y="108" width="98" height="48" rx="8" fill="#0b1723" stroke="#70c5ed" stroke-width="5"/><path d="M125 179h70M125 197h45" stroke="#d9f3ff" stroke-width="7" stroke-linecap="round"/><path d="M72 111H52m20 42H52m20 42H52m176-84h20m-20 42h20m-20 42h20" stroke="#70c5ed" stroke-width="7" stroke-linecap="round"/>
+</svg>

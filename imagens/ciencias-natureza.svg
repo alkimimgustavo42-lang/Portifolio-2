@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="ciencias natureza">
+  <rect width="320" height="320" rx="36" fill="#0a0d12"/>
+  <circle cx="160" cy="160" r="112" fill="#142536"/><path d="M135 65h50M147 65v65l-48 82a22 22 0 0 0 19 33h84a22 22 0 0 0 19-33l-48-82V65" fill="none" stroke="#70c5ed" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M119 190h82l20 34a12 12 0 0 1-11 18h-80a12 12 0 0 1-11-18z" fill="#2878a8"/><circle cx="145" cy="205" r="7" fill="#d9f3ff"/><circle cx="174" cy="218" r="5" fill="#d9f3ff"/><path d="M91 99l-17-17M229 99l17-17M160 37V20" stroke="#70c5ed" stroke-width="7" stroke-linecap="round"/>
+</svg>

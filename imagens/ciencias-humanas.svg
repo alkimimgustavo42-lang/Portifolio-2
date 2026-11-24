@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="ciencias humanas">
+  <rect width="320" height="320" rx="36" fill="#0a0d12"/>
+  <circle cx="160" cy="160" r="112" fill="#142536"/><path d="M78 116l82-43 82 43-82 43z" fill="#2878a8" stroke="#70c5ed" stroke-width="7" stroke-linejoin="round"/><path d="M99 139v65c35 25 87 25 122 0v-65l-61 32z" fill="#1c4d6b" stroke="#70c5ed" stroke-width="7" stroke-linejoin="round"/><path d="M242 116v76" stroke="#70c5ed" stroke-width="7" stroke-linecap="round"/><circle cx="242" cy="204" r="11" fill="#70c5ed"/><path d="M132 185v32M160 180v42M188 185v32" stroke="#d9f3ff" stroke-width="6" stroke-linecap="round"/>
+</svg>

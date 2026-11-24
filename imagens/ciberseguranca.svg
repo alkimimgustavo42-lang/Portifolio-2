@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="ciberseguranca">
+  <rect width="320" height="320" rx="36" fill="#0a0d12"/>
+  <circle cx="160" cy="160" r="112" fill="#142536"/><path d="M160 61l76 29v57c0 52-32 87-76 111-44-24-76-59-76-111V90z" fill="#1c4d6b" stroke="#70c5ed" stroke-width="9" stroke-linejoin="round"/><rect x="128" y="137" width="64" height="53" rx="10" fill="#d9f3ff"/><path d="M141 137v-17a19 19 0 0 1 38 0v17" fill="none" stroke="#d9f3ff" stroke-width="9" stroke-linecap="round"/><circle cx="160" cy="161" r="6" fill="#2878a8"/><path d="M160 167v10" stroke="#2878a8" stroke-width="6" stroke-linecap="round"/>
+</svg>

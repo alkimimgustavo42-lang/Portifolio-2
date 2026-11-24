@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-label="blockchain">
+  <rect width="320" height="320" rx="36" fill="#0a0d12"/>
+  <circle cx="160" cy="160" r="112" fill="#142536"/><g fill="#1c4d6b" stroke="#70c5ed" stroke-width="7"><path d="M160 65l42 24v48l-42 24-42-24V89z"/><path d="M91 153l42 24v48l-42 24-42-24v-48z"/><path d="M229 153l42 24v48l-42 24-42-24v-48z"/></g><path d="M160 161v-24M133 177l27-16 27 16" fill="none" stroke="#d9f3ff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
